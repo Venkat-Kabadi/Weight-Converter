@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
+#Python program of Weight Convertor
 weight=float(input("Enter your weight: "))
 unit=input("Kilograms or Pounds (K or L): ")
 
@@ -18,10 +13,3 @@ elif unit=="L":
     print(f"Your weight is: {round(weight,2)} {unit}")
 else:
     print(f"{unit} is not valid")
-
-
-# In[ ]:
-
-
-
-
