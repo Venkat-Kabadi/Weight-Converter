@@ -1,2 +1,2 @@
 # Weight-Converter
-Converts one unit to the other unit 
+Converts The Given Input Into Kilograms Or Pounds.
